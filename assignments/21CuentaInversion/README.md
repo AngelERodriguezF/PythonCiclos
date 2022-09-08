@@ -9,7 +9,7 @@ Por ejemplo, si tienes 1000 pesos al inicio del año y el banco te da un porcent
 Utiliza un ciclo for para calcular cuánto dinero voy a tener al final del año en la cuenta.   
 Recuerda que el interés que se pide es anual, pero se genera mes con mes.
 
-Si alguno de los datos, o los dos son negativos, se manda a pantalla el siguiente mensaje:
+Si alguno de los datos, o los dos son negativos (o cero), se manda a pantalla el siguiente mensaje:
 "Error en los datos"
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama
